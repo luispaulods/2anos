@@ -1,0 +1,36 @@
+img{
+    width: 15%;
+    height: 15%;
+}
+
+h1{
+    color: rgb(195, 43, 255);
+    text-align: center;
+    margin: auto;
+    width: 40%;
+}
+
+h2{
+    color: rgb(255, 66, 255);
+    text-align: center;
+    margin-top: 2%;
+
+}
+
+p{
+    color: rgb(89, 78, 255);
+    text-indent: 50px;
+    text-align: center center;
+    padding: 20px 300px 20px 300px;
+}
+
+body{
+    font-family: 'Times New Roman', 'Arial';
+    font-size: larger;
+    background-color: rgb(248, 206, 213);
+}
+
+figure{
+    text-align: center;
+    margin-top: 50px;
+}
