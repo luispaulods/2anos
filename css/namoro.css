@@ -3,11 +3,22 @@ img{
     height: 30%;
 }
 
+video{
+    text-align: center;
+    width: 30%;
+    height: 30%;
+}
+
+
 h1{
     color: rgb(195, 43, 255);
     text-align: center;
     margin: auto;
     width: 40%;
+}
+
+h1:hover{
+    color: red;
 }
 
 h2{
@@ -16,12 +27,16 @@ h2{
     margin-top: 3%;
 }
 
+h2:hover{
+    color: red;
+}
+
 p{
     color: rgb(89, 78, 255);
     font-size: larger;
     text-indent: 80px;
-    text-align: center center;
-    padding: 20px 300px 20px 300px;
+    text-align: center;
+    padding: 20px 100px 20px 100px;
 }
 
 body{
